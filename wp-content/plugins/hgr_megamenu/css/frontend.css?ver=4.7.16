@@ -1,0 +1,78 @@
+/* CSS Document */
+
+.menu_wrap {
+	border: 1px solid #A713DD;
+}
+.megamenu_container {
+	list-style: outside none none;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #ff0000;
+}
+.menu_item {
+}
+.menu_areas {
+	display: inline;
+	float: left;
+}
+.left_area {
+	width: 40%;
+	text-align: left;
+}
+.center_area {
+	width: 20%;
+	text-align: center;
+}
+.right_area {
+	width: 40%;
+	text-align: right;
+}
+.right_area .megamenu {
+	text-align: left;
+}
+.menu_item.first_level {
+	/*display: inline;
+	padding: 20px;
+	position: relative;
+	border: 1px solid #ff3366;*/
+}
+.megamenu {
+	display: none;
+	position: absolute;
+	min-width: 800px;
+	max-width:100%;
+	height: auto;
+	z-index: 10;
+	left:0;
+	right:0;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: -3px;
+	top:100%;
+	text-transform:none;
+}
+.left_area .megamenu {
+	left: 0;
+}
+.right_area .megamenu {
+	right: 20px;
+}
+.col-3 {
+	width: 30%;
+	float: left;
+	border: 1px solid #DCBE1C;
+}
+.col-9 {
+	width: 60%;
+	float: left;
+	border: 1px solid #22D951;
+}
+.megamenu ul li {
+	line-height:1.2em;
+	text-transform:none;
+}
+.megamenu ul li a {
+	padding-left:0!important;
+	padding-right:0!important;
+	line-height:none!important;
+}

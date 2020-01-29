@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]>    <html class="ie ie9 ie-lt10 no-js" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. --> 
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2015/03/favicon-retina.png" rel="icon">
+<link href="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2015/03/iphone.png" rel="apple-touch-icon">
+<link href="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2015/03/iphone-retina.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2015/03/ipad.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2015/03/ipad-retina.png" rel="apple-touch-icon" sizes="152x152" />
+
+<link rel="pingback" href="http://www.highgradelab.com/tavern/main-demo/xmlrpc.php">
+
+<title>Products &#8211; Page 2 &#8211; Main Demo</title>
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Droid+Serif:400', 'Merriweather:300,400', 'Dancing+Script:400', 'Roboto+Condensed:700,400', 'Source+Sans+Pro:300', 'Roboto:400,700', 'Open+Sans:400,600&amp;subset=latin']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Main Demo &raquo; Feed" href="http://www.highgradelab.com/tavern/main-demo/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Main Demo &raquo; Comments Feed" href="http://www.highgradelab.com/tavern/main-demo/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Main Demo &raquo; Products Feed" href="http://www.highgradelab.com/tavern/main-demo/shop/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.highgradelab.com\/tavern\/main-demo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.16"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='hgr-cta-style-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_cta/hgr-cta.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-dancing-151240-css'  href='http://fonts.googleapis.com/css?family=Dancing+Script&#038;ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-merriweather-css'  href='http://fonts.googleapis.com/css?family=Merriweather%3A400%2C300%2C300italic%2C400italic%2C700%2C700italic%2C900%2C900italic&#038;ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='hgrmenu_frontend_style-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_megamenu/css/frontend.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='hgr-vc-fa-icons-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_vc_extender/includes/css/font-awesome.min.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='hgr-vc-outline-icons-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_vc_extender/includes/css/outline.min.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='hgr-vc-extender-style-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.0.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tavern_icons-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/css/icons.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/css/font-awesome.min.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='tavern_css_component-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/css/component.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='lity-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/css/lity.min.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='tavern_style-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/style.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tavern_custom-styles-css'  href='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/custom-styles.css?ver=4.7.16' type='text/css' media='all' />
+<style id='tavern_custom-styles-inline-css' type='text/css'>
+#hgr_sections{background-color:#fff;}#website_boxed{margin:auto;overflow:hidden;width:100vw;max-width:100%;}#hgr_top_navbar_container{position:fixed;}.noPaddingTopBottom{padding-top:0 !important;padding-bottom:0 !important;}#hgr_top_navbar_container .container{-webkit-transition:all .5s;-moz-transition:all .5s;-ms-transition:all .5s;-o-transition:all .5s;transition:all .5s;}img.responsiveLogo{max-width:100%;max-height:100%;vertical-align:unset !important;}.hgr_identity a{max-width:100%;max-height:100%;}a.underline.after.first:after{border-bottom:2px solid #b78f52;}.loader{font-size:5px;margin:auto;text-indent:-9999em;width:11em;height:11em;border-radius:50%;background:#b78f52;background:-moz-linear-gradient(left,#b78f52 10%,rgba(255,255,255,0) 42%);background:-webkit-linear-gradient(left,#b78f52 10%,rgba(255,255,255,0) 42%);background:-o-linear-gradient(left,#b78f52 10%,rgba(255,255,255,0) 42%);background:-ms-linear-gradient(left,#b78f52 10%,rgba(255,255,255,0) 42%);background:linear-gradient(to right,#b78f52 10%,rgba(255,255,255,0) 42%);position:relative;-webkit-animation:load3 1.4s infinite linear;animation:load3 1.4s infinite linear;-webkit-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);}.loader:before{width:50%;height:50%;background:#b78f52;border-radius:100% 0 0 0;position:absolute;top:0;left:0;content:&#039;&#039;;}.lity{background:#b78f52;background:rgba(183,143,82,0.9);}a.link-curtain::before{border-top:2px solid rgba(183,143,82,0.3);}a.link-curtain::after{background:rgba(183,143,82,0.1);}#hgr_top_navbar_container .dropdown-menu li a:hover{background-color:rgba(183,143,82,0.1);}#fixed_navbar .dropdown-menu li a:hover{background-color:rgba(221,153,51,0.15);}#hgr_top_navbar_container .dropdown-menu{border-top:2px solid #b78f52 !important;}#fixed_navbar .dropdown-menu{border-top:2px solid #d93 !important;}.page-template-page-leftsidebar .vc_col-sm-3 ul li,.page-template-page-rightsidebar .vc_col-sm-3 ul li,.page-template-page-leftsidebar .vc_col-sm-3 ul.children li,.page-template-page-rightsidebar .vc_col-sm-3 ul.children li,.shop_widget ul li{border-left:solid 6px rgba(183,143,82,0.3);}.page-template-page-leftsidebar .vc_col-sm-3  ul li:hover,.page-template-page-rightsidebar .vc_col-sm-3 ul li:hover,.shop_widget ul li:hover{border-left:solid 6px #b78f52;background-color:rgba(183,143,82,0.05);}.page-template-page-leftsidebar #wp-calendar caption,.page-template-page-rightsidebar #wp-calendar caption{color:#b78f52;}.page-template-page-leftsidebar #wp-calendar thead,.page-template-page-rightsidebar #wp-calendar thead{background:rgba(183,143,82,0.05);}.page-template-page-leftsidebar #wp-calendar tbody td:hover,.page-template-page-rightsidebar #wp-calendar tbody td:hover{background:rgba(183,143,82,0.08);}.price_slider_wrapper .ui-slider-horizontal{background-color:rgba(183,143,82,0.2);}.price_slider_wrapper .ui-slider .ui-slider-range,.price_slider_wrapper .ui-slider .ui-slider-handle{background:#b78f52;}.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button{background-color:#b78f52 !important;}.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover{background-color:rgba(183,143,82,0.5) !important;}.woocommerce ul.products li.product,.woocommerce-page ul.products li.product{width:31.05% !important;}.wpcf7 input[type=text],.wpcf7 input[type=email],.wpcf7 textarea,.wpcf7 input[type=submit]{border-radius:0;}.qcv_button_cart{background-color:#d93;}.qcv_button_cart:hover{background-color:#d93;}.qcv_button_checkout{background-color:#d93;}.qcv_button_checkout:hover{background-color:#d93;}#comments-form input[type=submit],#commentform input[type=submit]{background-color:#000;}#comments-form input[type=submit]:hover,#commentform input[type=submit]:hover{background-color:#49e2d6;}.woocommerce .product span.onsale{padding:8px 10px;border-radius:4px;}@media (max-width: 479px){.fixed_menu,.main_navbar_container{display:none;}.container,#container{max-width:300px;}.container:before,.container:after,#container:before,#container:after{content:&quot; &quot;;display:table;}.container:after,#container:after{clear:both;}.megamenu{width:300px;}.standAlonePage .page_title_container .container{margin-top:60px;}#main_navbar_container,#main_navbar_container_left,.hgr_woo_minicart{display:none;}.central_logo .hgr_identity{float:left;margin:0;text-align:left;}#website_boxed:before,#website_boxed:after{content:&quot; &quot;;display:table;}#website_boxed:after{clear:both;}#website_boxed{width:100vw;max-width:100%;}#qcv_handle{position:absolute;top:22px;right:70px;}#fssearch_container #searchform input[type=text]{font-size:50px !important;height:100px !important;}#hgr_mc_name,#hgr_mc_lastname,#hgr_mc_email,.hgr_mc_btn{width:100% !important;margin-bottom:10px !important;}#comments .depth-2,#comments .depth-3,#comments .depth-4,#comments .depth-5,#comments .depth-6,#comments .depth-7,#comments .depth-8,#comments .depth-9,#comments .depth-10{margin-left:0;}.woocommerce .product span.onsale{top:10px !important;right:10px !important;left:auto !important;}.hgr_main_image{float:none;width:300px;margin-bottom:20px;}.hgr_product_thumbnails{width:300px;max-height:240px;float:none;overflow:hidden;}.hgr_product_thumbnails a{margin-right:10px;}.hgr_product_thumbnails a:last-child{margin-right:0;}.hgr_product_thumbnails img{max-width:90px !important;height:auto;}.woocommerce-page div.product div.summary{width:300px;height:auto;margin-right:auto;margin-left:auto;}.woocommerce-page div.product div.summary p{text-align:justify;}.woocommerce-page div.product .product_title{text-align:center;}.woocommerce div.product .woocommerce-product-rating{float:right;}.woocommerce div.product form.cart .button{margin-top:0 !important;}.woocommerce div.product .product_meta .posted_in{padding:0 !important;}#tab-description{text-align:justify;}.woocommerce #respond input#submit{width:100%;}.woocommerce p.stars{font-size:0.9em;}.woocommerce p.stars span{display:block;text-align:center;}.woocommerce .related ul.products li.product,.woocommerce .related ul li.product{width:48% !important;}.woocommerce .related ul.products li.product a,.woocommerce-page .related ul.products li.product a{left:35%;bottom:125px;}.woocommerce a.button,.woocommerce-page a.button{margin-top:0px !important;left:10px !important;top:10px !important;}}@media (min-width: 480px) and (max-width: 639px){.fixed_menu,.main_navbar_container{display:none;}.container,#container{max-width:440px;}.container:before,.container:after,#container:before,#container:after{content:&quot; &quot;;display:table;}.container:after,#container:after{clear:both;}.megamenu{width:440px;}#website_boxed:before,#website_boxed:after{content:&quot; &quot;;display:table;}#website_boxed:after{clear:both;}#main_navbar_container,#main_navbar_container_left,.hgr_woo_minicart{display:none;}.central_logo .hgr_identity{float:left;margin:0;text-align:left;}#website_boxed{width:100vw;max-width:100%;}#qcv_handle{position:absolute;top:22px;right:70px;}#fssearch_container #searchform input[type=text]{font-size:50px !important;height:100px !important;}#hgr_mc_name,#hgr_mc_lastname,#hgr_mc_email,.hgr_mc_btn{width:100% !important;margin-bottom:10px !important;}#comments .depth-2,#comments .depth-3,#comments .depth-4,#comments .depth-5,#comments .depth-6,#comments .depth-7,#comments .depth-8,#comments .depth-9,#comments .depth-10{margin-left:0;}.woocommerce .product span.onsale{top:10px !important;right:10px !important;left:auto !important;}.hgr_main_image{float:right;width:360px;margin-bottom:20px;}.hgr_product_thumbnails{width:70px;max-height:240px;float:left;overflow:hidden;}.hgr_product_thumbnails a{margin-right:10px;}.hgr_product_thumbnails a:last-child{margin-right:0;}.hgr_product_thumbnails img{max-width:70px !important;height:auto;}.woocommerce-page div.product div.summary{width:440px !important;height:auto;float:left !important;}.woocommerce-page div.product div.summary p{text-align:justify;}.woocommerce-page div.product .product_title{text-align:center;}.woocommerce div.product .woocommerce-product-rating{float:right;}.woocommerce div.product form.cart .button{margin-top:0 !important;}.woocommerce div.product .product_meta .posted_in{padding:0 !important;}#tab-description{text-align:justify;}.woocommerce #respond input#submit{width:100%;}.woocommerce p.stars{font-size:0.9em;}.woocommerce p.stars span{display:block;text-align:center;}.woocommerce .related ul.products li.product,.woocommerce .related ul li.product,.woocommerce .related li.product:nth-child(2n){width:32% !important;clear:none !important;margin-left:2px;margin-right:2px;text-align:center;float:left !important;}.woocommerce .related ul.products li.product a,.woocommerce-page .related ul.products li.product a{left:37%;top:-12px;}.woocommerce a.button,.woocommerce-page a.button{margin-top:0px !important;left:10px !important;top:10px !important;}}@media (min-width: 640px) and (max-width: 767px){.fixed_menu,.main_navbar_container{display:none;}.container,#container{max-width:600px;}.container:before,.container:after,#container:before,#container:after{content:&quot; &quot;;display:table;}.container:after,#container:after{clear:both;}.megamenu{width:600px;}#website_boxed:before,#website_boxed:after{content:&quot; &quot;;display:table;}#website_boxed:after{clear:both;}#main_navbar_container,#main_navbar_container_left,.hgr_woo_minicart,.fixed_menu{display:none;}.central_logo .hgr_identity{float:left;margin:0;text-align:left;}#website_boxed{width:100vw;max-width:100%;}.initialHeaderSize{height:150px;}.finalHeaderSize{height:100px !important;}#fssearch_container #searchform input[type=text]{font-size:50px !important;height:100px !important;}#comments .depth-2,#comments .depth-3,#comments .depth-4,#comments .depth-5,#comments .depth-6,#comments .depth-7,#comments .depth-8,#comments .depth-9,#comments .depth-10{margin-left:0;}.woocommerce .product span.onsale{top:10px !important;right:10px !important;left:auto !important;}.hgr_main_image{float:right;width:470px;margin-bottom:20px;}.hgr_product_thumbnails{width:120px;max-height:460px;float:left;overflow:hidden;}.hgr_product_thumbnails a{margin-right:10px;}.hgr_product_thumbnails a:last-child{margin-right:0;}.hgr_product_thumbnails img{max-width:120px !important;height:auto;}.woocommerce-page div.product div.summary{width:600px !important;height:auto;float:left !important;}.woocommerce-page div.product div.summary p{text-align:justify;}.woocommerce-page div.product .product_title{text-align:left;}.woocommerce div.product .woocommerce-product-rating{float:right;}div.quantity_select{width:70px !important;background-position:50px !important;}.woocommerce select.qty{width:280px !important;}.woocommerce form.cart select.qty{width:85px !important;}.woocommerce div.product form.cart .button{margin-top:0 !important;width:50% !important;}.woocommerce div.product .product_meta .posted_in{padding:0 !important;}#tab-description{text-align:justify;}.woocommerce #respond input#submit{width:100%;}.woocommerce p.stars{font-size:0.9em;}.woocommerce p.stars span{display:block;text-align:center;}.woocommerce .related ul.products li.product,.woocommerce .related ul li.product{width:32% !important;clear:none !important;margin-left:2px;margin-right:2px;text-align:center;float:left !important;}.woocommerce .related ul.products li.product a,.woocommerce-page .related ul.products li.product a{left:37%;top:-12px;}.woocommerce a.button,.woocommerce-page a.button{margin-top:0px !important;left:10px !important;top:10px !important;}}@media (min-width: 768px) and (max-width: 979px){.standAlonePage .page_title_container .container{margin-top:60px;}.container,#container{max-width:720px;}.megamenu{width:720px;}ul.primary_menu{margin-top:0;}#main_navbar_container,#main_navbar_container_left,.hgr_woo_minicart,.fixed_menu{display:none;}.central_logo .hgr_identity{float:left;margin:0;text-align:left;}#website_boxed{width:100vw;max-width:100%;}.initialHeaderSize{height:150px;}.finalHeaderSize{height:100px !important;}.woocommerce .product span.onsale{top:10px !important;right:10px !important;left:auto !important;}.hgr_main_image{float:right;width:500px;margin-bottom:20px;}.hgr_product_thumbnails{width:200px;max-height:500px;float:left;overflow:hidden;}.hgr_product_thumbnails a{margin-right:10px;}.hgr_product_thumbnails a:last-child{margin-right:0;}.hgr_product_thumbnails img{max-width:200px !important;height:auto;}.woocommerce-page div.product div.summary{width:700px !important;height:auto;float:left !important;}.woocommerce-page div.product div.summary p{text-align:justify;}.woocommerce-page div.product .product_title{text-align:left;}.woocommerce div.product .woocommerce-product-rating{float:right;}div.quantity_select{width:70px !important;background-position:50px !important;}.woocommerce select.qty{width:280px !important;}.woocommerce form.cart select.qty{width:85px !important;}.woocommerce div.product form.cart .button{margin-top:0 !important;width:50% !important;}.woocommerce div.product .product_meta .posted_in{padding:0 !important;}#tab-description{text-align:justify;}.woocommerce #respond input#submit{width:100%;}.woocommerce p.stars{font-size:0.9em;}.woocommerce p.stars span{display:block;text-align:center;}.woocommerce .related ul.products li.product,.woocommerce .related ul li.product{width:32% !important;clear:none !important;margin-left:2px;margin-right:2px;text-align:center;float:left !important;}.woocommerce .related ul.products li.product a,.woocommerce-page .related ul.products li.product a{left:37%;top:-12px;}.woocommerce a.button,.woocommerce-page a.button{margin-top:0px !important;left:10px !important;top:10px !important;}}@media (min-width: 980px) and (max-width: 1279px){.container,#container{max-width:920px;}.megamenu{width:920px;}ul.primary_menu{line-height:0;}ul.sub-menu{line-height:24px;top:-1;}#main_navbar_container,#main_navbar_container_left,.hgr_woo_minicart,.fixed_menu{display:none;}.central_logo .hgr_identity{float:left;margin:0;text-align:left;}#website_boxed{width:100vw;max-width:100%;}.initialHeaderSize{height:150px;}.finalHeaderSize{height:100px !important;}.woocommerce .product span.onsale{top:10px !important;right:10px !important;left:auto !important;}.hgr_main_image{float:right;width:700px;margin-bottom:20px;}.hgr_product_thumbnails{width:200px;float:left;overflow:hidden;}.hgr_product_thumbnails a{margin-right:10px;}.hgr_product_thumbnails a:last-child{margin-right:0;}.hgr_product_thumbnails img{max-width:200px !important;height:auto;}.woocommerce-page div.product div.summary{width:920px !important;height:auto;float:left !important;}.woocommerce-page div.product div.summary p{text-align:justify;}.woocommerce-page div.product .product_title{text-align:left;}.woocommerce div.product .woocommerce-product-rating{float:right;}div.quantity_select{width:70px !important;background-position:50px !important;}.woocommerce select.qty{width:280px !important;}.woocommerce form.cart select.qty{width:70px !important;}.woocommerce div.product form.cart .button{margin-top:0 !important;width:150px !important;float:none;}.woocommerce div.product .product_meta .posted_in{padding:0 !important;}#tab-description{text-align:justify;}.woocommerce #respond input#submit{width:50%;float:right;}.woocommerce p.stars{font-size:0.9em;}.woocommerce p.stars span{display:block;}.woocommerce .related ul.products li.product,.woocommerce .related ul li.product{width:24% !important;clear:none !important;margin-left:2px;margin-right:2px;text-align:center;float:left !important;}.woocommerce .related ul.products li.product a,.woocommerce-page .related ul.products li.product a{left:39%;bottom:125px;}.woocommerce a.button,.woocommerce-page a.button{margin-top:0px !important;left:10px !important;top:10px !important;}}@media (min-width: 1280px) and (max-width: 1365px){.container,#container{max-width:1200px;}.megamenu{width:1200px;}ul.primary_menu{line-height:0;}ul.sub-menu{line-height:24px;top:-1;}#main_navbar_container,#main_navbar_container_left,.hgr_woo_minicart,.fixed_menu{display:none;}.central_logo .hgr_identity{float:left;margin:0;text-align:left;}#website_boxed{width:100vw;max-width:100%;}.initialHeaderSize{height:150px;}.finalHeaderSize{height:100px !important;}.woocommerce .product span.onsale{top:10px !important;right:10px !important;left:auto !important;}.hgr_main_image{float:right;width:700px;margin-bottom:20px;}.hgr_product_thumbnails{width:200px;float:left;overflow:hidden;}.hgr_product_thumbnails a{margin-right:10px;}.hgr_product_thumbnails a:last-child{margin-right:0;}.hgr_product_thumbnails img{max-width:200px !important;height:auto;}.woocommerce-page div.product div.summary{width:920px !important;height:auto;float:left !important;}.woocommerce-page div.product div.summary p{text-align:justify;}.woocommerce-page div.product .product_title{text-align:left;}.woocommerce div.product .woocommerce-product-rating{float:right;}div.quantity_select{width:70px !important;background-position:50px !important;}.woocommerce select.qty{width:280px !important;}.woocommerce form.cart select.qty{width:70px !important;}.woocommerce div.product form.cart .button{margin-top:0 !important;width:150px !important;float:none;}.woocommerce div.product .product_meta .posted_in{padding:0 !important;}#tab-description{text-align:justify;}.woocommerce #respond input#submit{width:50%;float:right;}.woocommerce p.stars{font-size:0.9em;}.woocommerce p.stars span{display:block;}.woocommerce .related ul.products li.product,.woocommerce .related ul li.product{width:24% !important;clear:none !important;margin-left:2px;margin-right:2px;text-align:center;float:left !important;}.woocommerce .related ul.products li.product a,.woocommerce-page .related ul.products li.product a{left:39%;bottom:125px;}.woocommerce a.button,.woocommerce-page a.button{margin-top:0px !important;left:10px !important;top:10px !important;}}@media (min-width: 1366px){.container,#container{max-width:1300px;}.cd-primary-nav-trigger,#mainNavUl{display:none;}.megamenu{width:1300px;}ul.primary_menu{line-height:0;}ul.sub-menu{line-height:24px;top:-1;}#website_boxed{width:100vw;max-width:100%;}.initialHeaderSize{height:150px;}.finalHeaderSize{height:100px !important;}.isDesktop.notMobile #hgr_top_navbar_container.headerappear{-moz-transform:translateY(0);-o-transform:translateY(0);-ms-transform:translateY(0);-webkit-transform:translateY(0);transform:translateY(0);-webkit-transition:transform .33s ease-in-out;-moz-transition:transform .33s ease-in-out;transition:transform .33s ease-in-out;}.isDesktop.notMobile #hgr_top_navbar_container.headerhidden{-moz-transform:translateY(-100%);-o-transform:translateY(-100%);-ms-transform:translateY(-100%);-webkit-transform:translateY(-100%);transform:translateY(-100%);-webkit-transition:transform .33s ease-in-out;-moz-transition:transform .33s ease-in-out;transition:transform .33s ease-in-out;}.hgr_product_images{width:960px;height:800px;float:left;}.hgr_product_summary{width:700px;height:800px;float:right;}.hgr_main_image{float:left;width:600px;}.hgr_main_image.has_thumbnails{width:480px;}.hgr_product_thumbnails{width:100px;margin-right:20px;max-height:800px;float:left;overflow:hidden;}.woocommerce .product span.onsale{top:10px !important;right:10px !important;left:auto !important;}div.quantity_select{width:70px !important;background-position:50px !important;}.woocommerce select.qty{width:280px !important;}.woocommerce form.cart select.qty{width:85px !important;}.woocommerce div.product form.cart .button{margin-top:0 !important;width:150px !important;float:none;}.woocommerce .related ul.products li.product,.woocommerce .related ul li.product{width:24% !important;clear:none !important;margin-left:2px;margin-right:2px;text-align:center;float:left !important;}.woocommerce .related ul.products li.product a,.woocommerce-page .related ul.products li.product a{left:39%;bottom:125px;}.woocommerce a.button,.woocommerce-page a.button{margin-top:0px !important;left:10px !important;top:10px !important;}}
+.vc_custom_1465209231815{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1465209128255{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #f6f6f6 !important;}.vc_custom_1426165970648{margin-bottom: 27px !important;}.vc_custom_1426165975756{margin-bottom: 20px !important;}.vc_custom_1426165997944{margin-bottom: 20px !important;}.vc_custom_1465208781919{padding-top: 200px !important;padding-bottom: 200px !important;}.vc_custom_1411392346745{padding-top: 100px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411392356328{padding-top: 10px !important;padding-bottom: 100px !important;}.vc_custom_1465208829066{padding-top: 200px !important;padding-bottom: 200px !important;}.vc_custom_1411392484958{padding-top: 100px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411392356328{padding-top: 10px !important;padding-bottom: 100px !important;}.vc_custom_1465208865200{padding-top: 200px !important;padding-bottom: 200px !important;}.vc_custom_1411392484958{padding-top: 100px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411390183339{padding-top: 10px !important;}.vc_custom_1411392356328{padding-top: 10px !important;padding-bottom: 100px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394117342{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394155583{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394242754{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394276430{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394347750{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394626265{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394710563{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394768603{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394827442{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411394867757{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411395238448{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411395347988{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411395419506{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411395463306{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411395664768{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411395702359{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411396103203{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411396141825{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411396180177{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411396219009{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411396921982{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411396990958{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411397622965{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411397630060{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411397147881{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411397265057{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411397323909{margin-bottom: 0px !important;}.vc_custom_1411389954865{padding-bottom: 10px !important;}.vc_custom_1411397543114{margin-bottom: 0px !important;}.vc_custom_1492008590165{padding-top: 250px !important;}.vc_custom_1411138760901{padding-top: 10px !important;}.vc_custom_1465209542901{background-color: #f4f4f4 !important;}.vc_custom_1465209547716{background-color: #f4f4f4 !important;}.vc_custom_1427719803823{padding-top: 100px !important;padding-bottom: 50px !important;}.vc_custom_1426075883091{padding-bottom: 80px !important;}.vc_custom_1426076508727{padding-bottom: 50px !important;}.vc_custom_1426074124921{margin-bottom: 10px !important;padding-top: 183px !important;}.vc_custom_1426074022567{margin-bottom: 10px !important;}.vc_custom_1465208680355{margin-bottom: 0px !important;}.vc_custom_1465208684783{margin-bottom: 0px !important;}.vc_custom_1426074999011{margin-bottom: 10px !important;padding-top: 183px !important;}.vc_custom_1426075065227{margin-bottom: 10px !important;}.vc_custom_1426075581465{margin-bottom: 10px !important;padding-top: 183px !important;}.vc_custom_1426075619795{margin-bottom: 10px !important;}.vc_custom_1465208689160{margin-bottom: 0px !important;}.vc_custom_1492008457152{padding-top: 250px !important;}.vc_custom_1411138760901{padding-top: 10px !important;}.vc_custom_1426077174100{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1411138760901{padding-top: 10px !important;}.vc_custom_1465209438109{padding-top: 120px !important;padding-bottom: 150px !important;background-color: #f4f4f4 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1426079390176{padding-top: 100px !important;}.vc_custom_1492008027095{padding-top: 10px !important;}.vc_custom_1465209498415{padding-top: 100px !important;padding-bottom: 50px !important;background-color: #f4f4f4 !important;}.vc_custom_1492008083485{padding-bottom: 100px !important;background-color: #f4f4f4 !important;}.vc_custom_1465208642742{margin-bottom: 0px !important;}.vc_custom_1426079402102{padding-bottom: 50px !important;}.vc_custom_1426080492817{padding-bottom: 100px !important;}.vc_custom_1492008927099{padding-top: 250px !important;}.vc_custom_1426084540659{padding-top: 10px !important;padding-bottom: 100px !important;}.vc_custom_1465209588794{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #f4f4f4 !important;}.vc_custom_1465208950376{padding-top: 300px !important;padding-bottom: 300px !important;}.vc_custom_1465209600499{padding-top: 100px !important;padding-bottom: 50px !important;background-color: #f4f4f4 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1465209607130{padding-bottom: 100px !important;background-color: #f4f4f4 !important;}.vc_custom_1426084106048{margin-bottom: 20px !important;}.vc_custom_1427719949160{padding-top: 40px !important;}.vc_custom_1426163694375{margin-bottom: 10px !important;}.vc_custom_1456320978867{padding-top: 5px !important;padding-right: 10px !important;padding-left: 10px !important;background-color: #ffffff !important;}.vc_custom_1456321165518{background-color: #ffc31d !important;}.vc_custom_1456320580310{padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1456320942461{margin-top: -5px !important;}.vc_custom_1419240516480{background-color: #f9f9f9 !important;}.vc_custom_1457957439771{border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 5px !important;padding-right: 10px !important;padding-left: 10px !important;background-color: #ffffff !important;border-left-color: #f2f2f2 !important;border-left-style: solid !important;border-right-color: #f2f2f2 !important;border-right-style: solid !important;border-bottom-color: #f2f2f2 !important;border-bottom-style: solid !important;}.vc_custom_1456321165518{background-color: #ffc31d !important;}.vc_custom_1456320580310{padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1456320942461{margin-top: -5px !important;}.vc_custom_1475063616309{background-color: rgba(0,0,0,0.5) !important;*background-color: rgb(0,0,0) !important;}.vc_custom_1492005512573{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #ffffff !important;}.vc_custom_1492006949854{padding-top: 150px !important;padding-bottom: 150px !important;}.vc_custom_1492005743969{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1492006957283{padding-top: 250px !important;padding-bottom: 20px !important;}.vc_custom_1492006224294{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1492006600213{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1492006998439{padding-top: 220px !important;padding-bottom: 150px !important;}.vc_custom_1492007045467{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1492007138415{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #0a0a0a !important;}.vc_custom_1492005613690{padding-top: 10px !important;}.vc_custom_1411384406765{padding-top: 10px !important;padding-bottom: 100px !important;}.vc_custom_1411211617286{padding-bottom: 100px !important;}.vc_custom_1426166118866{margin-bottom: 10px !important;}.vc_custom_1465208421122{padding-bottom: 200px !important;}.vc_custom_1411384422144{padding-top: 10px !important;padding-bottom: 100px !important;}.vc_custom_1411384618565{padding-bottom: 50px !important;}.vc_custom_1411217611996{padding-top: 10px !important;padding-bottom: 50px !important;}.vc_custom_1411217551820{padding-bottom: 30px !important;}.vc_custom_1427718852359{padding-right: 80px !important;padding-left: 80px !important;}.vc_custom_1427718863986{padding-right: 80px !important;padding-left: 80px !important;}.vc_custom_1427718874748{padding-right: 80px !important;padding-left: 80px !important;}.vc_custom_1411138760901{padding-top: 10px !important;}.vc_custom_1411223922432{padding-bottom: 50px !important;}.vc_custom_1492098374774{background-image: url(http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2017/03/slide-restaurant.jpg?id=4161) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1492098558989{background-image: url(http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2017/03/slide-restaurant.jpg?id=4161) !important;}.vc_custom_1492098521939{padding-top: 40px !important;}
+
+		.wpb_btn-success, #itemcontainer-controller {
+			background-color: #b78f52!important;
+		}
+		.hoveredIcon {
+			color:#b78f52&gt;!important;
+		}
+		
+		.topborder h3 a {
+			border-top: 1px solid #b78f52;
+		}
+		ul.nav a.active {
+			color: #b78f52 !important;
+		}
+		.testimonial_text{
+			margin-bottom:60px;
+		}/* woocommerce */
+		body.woocommerce{
+			background-color: #ffffff;
+		}
+		.woocommerce span.onsale, .woocommerce-page span.onsale {
+			background-color: #b78f52!important;
+		}
+		.woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li span.current {
+			background: none repeat scroll 0% 0% #b78f52!important;
+			border: 2px solid #b78f52 !important;
+		}
+		.woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover {
+			background-color: #b78f52 !important;
+			border: 2px solid #b78f52 !important;
+		}
+		.woocommerce #content div.product form.cart .button, .woocommerce div.product form.cart .button, .woocommerce-page #content div.product form.cart .button, .woocommerce-page div.product form.cart .button {
+			background: none repeat scroll 0% 0% #b78f52 !important;
+		}
+		.woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active {
+			border-bottom-color: #b78f52 !important;
+		}
+		.woocommerce #reviews #comments ol.commentlist li .comment-text, .woocommerce-page #reviews #comments ol.commentlist li .comment-text {
+			background-color: #b78f52 !important;
+		}
+		.woocommerce p.stars a, .woocommerce-page p.stars a{
+			color:#b78f52!important;
+		}
+		.woocommerce #content .quantity .minus:hover, .woocommerce #content .quantity .plus:hover, .woocommerce .quantity .minus:hover, .woocommerce .quantity .plus:hover, .woocommerce-page #content .quantity .minus:hover, .woocommerce-page #content .quantity .plus:hover, .woocommerce-page .quantity .minus:hover, .woocommerce-page .quantity .plus:hover {
+			background-color: #b78f52 !important;
+		}
+		
+		.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3 {
+			font-size: 50px!important;
+			line-height: 38px!important;
+			color: #646464!important;
+		}
+		.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover {
+			background-color: #b78f52 !important;
+		}
+		.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message, .woocommerce .woocommerce-info, .woocommerce-page .woocommerce-info {	
+			background-color: #b78f52 !important;
+		}
+		.woocommerce table.shop_table thead span, .woocommerce-page table.shop_table thead span {
+			border-bottom: 1px solid #b78f52;
+		}
+		.proceed_button{
+			border: 2px solid #b78f52!important;
+			background-color:#b78f52!important;
+		}
+		.woocommerce .cart-collaterals .shipping-calculator-button{
+			color:#b78f52;
+		}
+		.checkout_apply_coupon{
+			border: 2px solid #b78f52;
+			background-color: #b78f52;
+		}
+		#place_order {
+			border: 2px solid #b78f52 !important;
+			background-color: #b78f52 !important;
+		}
+		.login_btn_hgr, .hgr_woobutton{
+			border: 2px solid #b78f52;
+			background-color: #b78f52;
+		}
+		.thankyoutext{color:#b78f52;}
+		#my-account h4.inline{
+			border-bottom: 1px solid #b78f52;
+		}
+		#my-account a{
+		color:#b78f52;
+		}
+		.hgr_woo_minicart .woo_bubble{
+			background-color: #dd9933;
+		}
+		.hgr_woo_minicart .woo_bubble:hover{
+			background-color: #dd9933;
+		}
+		.woocommerce a.added_to_cart {
+			margin-left: auto;
+			margin-right: auto;
+			width: 100%;
+			text-align: center;
+			color:#000;
+			background-color: #b78f52;
+		}
+		.woocommerce a.added_to_cart:hover {
+			color:#fff;
+		}
+		.woocommerce .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:hover {
+			color: #FFF;
+		}
+		.woocommerce .bka_footer.dark-scheme a{
+			color:#b78f52;
+		}
+		.woocommerce .bka_footer.light-scheme a{
+			color:#b78f52;
+		}
+		.woocommerce .bka_footer.dark-scheme a:hover{
+			color:#ffffff;
+		}
+		.woocommerce .bka_footer.light-scheme a:hover{
+			color:#000000;
+		}
+		/* woocommerce end */
+</style>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/tavern\/main-demo\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/tavern\/main-demo\/shop\/page\/2\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/www.highgradelab.com\/tavern\/main-demo\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.0.1'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.1'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/js/modernizr.custom.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/js/html5shiv.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/js/respond.min.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_vc_extender/includes/js/classie.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_vc_extender/includes/js/uiMorphingButton_fixed.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_vc_extender/includes/js/uiMorphingButton_inflow.js?ver=4.7.16'></script>
+<link rel='https://api.w.org/' href='http://www.highgradelab.com/tavern/main-demo/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.highgradelab.com/tavern/main-demo/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.highgradelab.com/tavern/main-demo/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.16" />
+<meta name="generator" content="WooCommerce 3.0.1" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){			
+			try {								
+				var pw = document.getElementById(e.c).parentNode.offsetWidth,
+					newh;
+				pw = pw===0 || isNaN(pw) ? window.innerWidth : pw;
+				e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+				e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+				e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+				e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+				e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+				e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+				e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+				if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+					newh = Math.max(e.mh,window.innerHeight);				
+				else{					
+					e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+					for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+					e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+					e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+					for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+										
+					var nl = new Array(e.rl.length),
+						ix = 0,						
+						sl;					
+					e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+					e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+					e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+					e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+					for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i];
+					sl = nl[0];									
+					for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+					var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+
+					newh =  (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+				}			
+				
+				if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+				document.getElementById(e.c).height = newh;
+				window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+			} catch(e){
+				console.log("Failure at Presize of Slider:" + e)
+			}					   
+		  };</script>
+<style type="text/css" title="dynamic-css" class="options-output">.container_xs{width:300px;}.container_s{width:440px;}.container_m{width:600px;}.container_l{width:720px;}.container_xl{width:920px;}.container_xxl{width:1200px;}.container_over_xxl{width:1300px;}.theme_dominant_color{color:#b78f52;}.dark-scheme, .dark-scheme.hgr_megafooter{color:#e0e0e0;}.dark-scheme h1, .dark-scheme.hgr_megafooter h1{color:#ffffff;}.dark-scheme h2, .dark-scheme.hgr_megafooter h2{color:#ffffff;}.dark-scheme h3, .dark-scheme.hgr_megafooter h3{color:#ffffff;}.dark-scheme h4, .dark-scheme.hgr_megafooter h4{color:#ffffff;}.dark-scheme h5, .dark-scheme.hgr_megafooter h5{color:#ffffff;}.dark-scheme h6, .dark-scheme.hgr_megafooter h6{color:#ffffff;}.dark-scheme a, .dark-scheme.hgr_megafooter a{color:#b78f52;}.dark-scheme a:hover, .dark-scheme.hgr_megafooter a:hover{color:#ffffff;}.light-scheme{color:#666666;}.light-scheme h1{color:#222222;}.light-scheme h2{color:#222222;}.light-scheme h3{color:#666666;}.light-scheme h4{color:#222222;}.light-scheme h5{color:#222222;}.light-scheme h6{color:#848484;}.light-scheme a{color:#b78f52;}.light-scheme a:hover{color:#000000;}body, .megamenu, .single-hgr_portfolio{font-family:"Droid Serif";line-height:28px;font-weight:400;font-style:normal;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body, .megamenu, .single-hgr_portfolio,{opacity: 0;}.ie.wf-loading body, .megamenu, .single-hgr_portfolio,{visibility: hidden;}h1, .megamenu h1, .single-hgr_portfolio h1{font-family:Merriweather;line-height:48px;font-weight:300;font-style:normal;font-size:40px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1, .megamenu h1, .single-hgr_portfolio h1,{opacity: 0;}.ie.wf-loading h1, .megamenu h1, .single-hgr_portfolio h1,{visibility: hidden;}h2, .megamenu h2, .single-hgr_portfolio h2{font-family:"Dancing Script";line-height:36px;font-weight:400;font-style:normal;font-size:28px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h2, .megamenu h2, .single-hgr_portfolio h2,{opacity: 0;}.ie.wf-loading h2, .megamenu h2, .single-hgr_portfolio h2,{visibility: hidden;}h3, .megamenu h3, .single-hgr_portfolio h3{font-family:"Dancing Script";line-height:56px;font-weight:normal;font-style:normal;font-size:48px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h3, .megamenu h3, .single-hgr_portfolio h3,{opacity: 0;}.ie.wf-loading h3, .megamenu h3, .single-hgr_portfolio h3,{visibility: hidden;}h4, .megamenu h4, .single-hgr_portfolio h4{font-family:"Dancing Script";line-height:60px;font-weight:400;font-style:normal;font-size:28px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h4, .megamenu h4, .single-hgr_portfolio h4,{opacity: 0;}.ie.wf-loading h4, .megamenu h4, .single-hgr_portfolio h4,{visibility: hidden;}h5, .megamenu h5, .single-hgr_portfolio h5{font-family:"Roboto Condensed";text-transform:uppercase;line-height:24px;letter-spacing:2px;font-weight:700;font-style:normal;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h5, .megamenu h5, .single-hgr_portfolio h5,{opacity: 0;}.ie.wf-loading h5, .megamenu h5, .single-hgr_portfolio h5,{visibility: hidden;}h6, .megamenu h6, .single-hgr_portfolio h6{font-family:"Source Sans Pro";line-height:18px;font-weight:300;font-style:normal;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h6, .megamenu h6, .single-hgr_portfolio h6,{opacity: 0;}.ie.wf-loading h6, .megamenu h6, .single-hgr_portfolio h6,{visibility: hidden;}#hgr_top_navbar_container, #hgr_top_navbar_container #main_navbar>li>a, #hgr_top_navbar_container #main_navbar_left>li>a, .dropdown-menu > li > a{font-family:Merriweather;line-height:60px;letter-spacing:1px;font-weight:400;font-style:normal;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #hgr_top_navbar_container, #hgr_top_navbar_container #main_navbar>li>a, #hgr_top_navbar_container #main_navbar_left>li>a, .dropdown-menu > li > a,{opacity: 0;}.ie.wf-loading #hgr_top_navbar_container, #hgr_top_navbar_container #main_navbar>li>a, #hgr_top_navbar_container #main_navbar_left>li>a, .dropdown-menu > li > a,{visibility: hidden;}#hgr_top_navbar_container #main_navbar>li>a, #hgr_top_navbar_container #main_navbar_left>li>a, .dropdown-menu>li>a, a.mobileFsSearch, .blog a.mobileFsSearch, a.cd-primary-nav-trigger, .blog a.cd-primary-nav-trigger, a.hgr_minicart, a.hgr_minicart .icon{color:#ffffff;}#hgr_top_navbar_container #main_navbar>li>a:hover, #hgr_top_navbar_container #main_navbar_left>li>a:hover, .dropdown-menu>li>a:hover, a.mobileFsSearch:hover, .blog a.mobileFsSearch:hover, a.cd-primary-nav-trigger:hover, .blog a.cd-primary-nav-trigger:hover, a.hgr_minicart:hover, a.hgr_minicart .icon:hover{color:#b78f52;}.hgr_identity{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;}.main_navbar_container, .left_menu_container{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;}#hgr_top_navbar_container, #main_navbar .dropdown-menu, #main_navbar_left .dropdown-menu, #mainNavUlLeft .dropdown-menu, #mainNavUlRight .dropdown-menu{background:#000000;}#hgr_top_navbar_container{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#hgr_top_navbar_container{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;}#hgr_fixed_menu .fixed_menu_top_bar{font-family:Roboto;line-height:60px;font-weight:400;font-style:normal;color:#ffffff;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #hgr_fixed_menu .fixed_menu_top_bar,{opacity: 0;}.ie.wf-loading #hgr_fixed_menu .fixed_menu_top_bar,{visibility: hidden;}#hgr_fixed_menu .fixed_menu_top_bar a{color:#000000;}#hgr_fixed_menu .fixed_menu_top_bar a:hover{color:#dd9933;}#hgr_fixed_menu .fixed_menu_top_bar{background:#ffffff;}#hgr_fixed_menu .fixed_menu_middle_bar_left_side, #hgr_fixed_menu .fixed_menu_middle_bar_middle_side, #hgr_fixed_menu .fixed_menu_middle_bar_right_side{font-family:Roboto;line-height:60px;font-weight:400;font-style:normal;color:#ffffff;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #hgr_fixed_menu .fixed_menu_middle_bar_left_side, #hgr_fixed_menu .fixed_menu_middle_bar_middle_side, #hgr_fixed_menu .fixed_menu_middle_bar_right_side,{opacity: 0;}.ie.wf-loading #hgr_fixed_menu .fixed_menu_middle_bar_left_side, #hgr_fixed_menu .fixed_menu_middle_bar_middle_side, #hgr_fixed_menu .fixed_menu_middle_bar_right_side,{visibility: hidden;}#hgr_fixed_menu .fixed_menu_middle_bar_left_side a, #hgr_fixed_menu .fixed_menu_middle_bar_middle_side a, #hgr_fixed_menu .fixed_menu_middle_bar_right_side a{color:#000000;}#hgr_fixed_menu .fixed_menu_middle_bar_left_side a:hover, #hgr_fixed_menu .fixed_menu_middle_bar_middle_side a:hover, #hgr_fixed_menu .fixed_menu_middle_bar_right_side a:hover{color:#dd9933;}#hgr_fixed_menu .fixed_menu_middle_bar{background:#ffffff;}#hgr_fixed_menu .fixed_menu_bottom_bar, #hgr_fixed_menu .fixed_menu_bottom_bar .fixed_navbar_container .fixed_navbar>li>a, #hgr_fixed_menu .fixed_menu_bottom_bar .dropdown-menu > li > a{font-family:Roboto;line-height:60px;font-weight:400;font-style:normal;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #hgr_fixed_menu .fixed_menu_bottom_bar, #hgr_fixed_menu .fixed_menu_bottom_bar .fixed_navbar_container .fixed_navbar>li>a, #hgr_fixed_menu .fixed_menu_bottom_bar .dropdown-menu > li > a,{opacity: 0;}.ie.wf-loading #hgr_fixed_menu .fixed_menu_bottom_bar, #hgr_fixed_menu .fixed_menu_bottom_bar .fixed_navbar_container .fixed_navbar>li>a, #hgr_fixed_menu .fixed_menu_bottom_bar .dropdown-menu > li > a,{visibility: hidden;}#hgr_fixed_menu .fixed_menu_bottom_bar .fixed_navbar_container .fixed_navbar>li>a, #hgr_fixed_menu .fixed_menu_bottom_bar .dropdown-menu>li>a{color:#000000;}#hgr_fixed_menu .fixed_menu_bottom_bar .fixed_navbar_container .fixed_navbar>li>a:hover, #hgr_fixed_menu .fixed_menu_bottom_bar .dropdown-menu>li>a:hover{color:#dd9933;}#hgr_fixed_menu .fixed_menu_bottom_bar, #fixed_navbar .dropdown-menu{background:#ffffff;}.cd-primary-nav a,  #mainNavUl .dropdown-menu.multi-level li a{font-family:Roboto;line-height:60px;font-weight:400;font-style:normal;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .cd-primary-nav a,  #mainNavUl .dropdown-menu.multi-level li a,{opacity: 0;}.ie.wf-loading .cd-primary-nav a,  #mainNavUl .dropdown-menu.multi-level li a,{visibility: hidden;}.cd-primary-nav a, #mainNavUl .dropdown-menu.multi-level li a, a.mobilemenuopen{color:#ffffff;}.cd-primary-nav a:hover, #mainNavUl .dropdown-menu.multi-level li a:hover, a.mobilemenuopen:hover{color:#dd9933;}.cd-primary-nav{background:rgba(0,0,0,0.9);}.wpcf7 p{font-family:Roboto;line-height:30px;font-weight:700;font-style:normal;color:#666666;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .wpcf7 p,{opacity: 0;}.ie.wf-loading .wpcf7 p,{visibility: hidden;}.wpcf7 input[type=text], .wpcf7 input[type=email], .wpcf7 textarea{font-family:Roboto;line-height:12px;font-weight:400;font-style:normal;color:#8e8e8e;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .wpcf7 input[type=text], .wpcf7 input[type=email], .wpcf7 textarea,{opacity: 0;}.ie.wf-loading .wpcf7 input[type=text], .wpcf7 input[type=email], .wpcf7 textarea,{visibility: hidden;}.wpcf7 input[type=text], .wpcf7 input[type=email], .wpcf7 textarea{padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;}.wpcf7 input[type=text], .wpcf7 input[type=email], .wpcf7 textarea, .wpcf7 input[type=submit]{margin-top:12px;margin-right:0;margin-bottom:12px;margin-left:0;}.wpcf7 input[type=text], .wpcf7 input[type=email], .wpcf7 textarea{border-top:1px dotted #cecece;border-bottom:1px dotted #cecece;border-left:1px dotted #cecece;border-right:1px dotted #cecece;}.wpcf7 input[type=submit]{height:50px;}.wpcf7 input[type=submit]{background:#dd9933;}.wpcf7 input[type=submit]:hover{background:#be8124;}.wpcf7 input[type=submit]{color:#ffffff;}.wpcf7 input[type=submit]:hover{color:#ffffff;}body.woocommerce{font-family:"Open Sans";line-height:30px;font-weight:400;font-style:normal;color:#666666;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body.woocommerce,{opacity: 0;}.ie.wf-loading body.woocommerce,{visibility: hidden;}.woocommerce .product h3{font-family:Georgia, serif;line-height:38px;font-weight:normal;font-style:normal;color:#646464;font-size:50px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .woocommerce .product h3,{opacity: 0;}.ie.wf-loading .woocommerce .product h3,{visibility: hidden;}.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce .related ul.products li.product .price, .woocommerce #content div.product span.price, .woocommerce div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce-page div.product span.price{font-family:"Open Sans";line-height:30px;font-weight:400;font-style:normal;color:#666666;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce .related ul.products li.product .price, .woocommerce #content div.product span.price, .woocommerce div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce-page div.product span.price,{opacity: 0;}.ie.wf-loading .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce .related ul.products li.product .price, .woocommerce #content div.product span.price, .woocommerce div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce-page div.product span.price,{visibility: hidden;}.woocommerce #content div.product .product_title, .woocommerce div.product .product_title, .woocommerce-page #content div.product .product_title, .woocommerce-page div.product .product_title{font-family:"Roboto Condensed";line-height:30px;font-weight:400;font-style:normal;color:#000000;font-size:24px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .woocommerce #content div.product .product_title, .woocommerce div.product .product_title, .woocommerce-page #content div.product .product_title, .woocommerce-page div.product .product_title,{opacity: 0;}.ie.wf-loading .woocommerce #content div.product .product_title, .woocommerce div.product .product_title, .woocommerce-page #content div.product .product_title, .woocommerce-page div.product .product_title,{visibility: hidden;}.woocommerce div.product .summary span.price, .woocommerce div.product .summary p.price, .woocommerce #content div.product .summary span.price, .woocommerce #content div.product .summary p.price, .woocommerce-page div.product .summary span.price, .woocommerce-page div.product .summary p.price, .woocommerce-page #content div.product .summary span.price, .woocommerce-page #content div.product .summary p.price{font-family:"Open Sans";line-height:30px;font-weight:400;font-style:normal;color:#666666;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .woocommerce div.product .summary span.price, .woocommerce div.product .summary p.price, .woocommerce #content div.product .summary span.price, .woocommerce #content div.product .summary p.price, .woocommerce-page div.product .summary span.price, .woocommerce-page div.product .summary p.price, .woocommerce-page #content div.product .summary span.price, .woocommerce-page #content div.product .summary p.price,{opacity: 0;}.ie.wf-loading .woocommerce div.product .summary span.price, .woocommerce div.product .summary p.price, .woocommerce #content div.product .summary span.price, .woocommerce #content div.product .summary p.price, .woocommerce-page div.product .summary span.price, .woocommerce-page div.product .summary p.price, .woocommerce-page #content div.product .summary span.price, .woocommerce-page #content div.product .summary p.price,{visibility: hidden;}.woocommerce h4{font-family:"Roboto Condensed";line-height:30px;font-weight:400;font-style:normal;color:#000000;font-size:24px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .woocommerce h4,{opacity: 0;}.ie.wf-loading .woocommerce h4,{visibility: hidden;}.woocommerce .standAlonePage a, .woocommerce a{color:#000000;}.woocommerce .standAlonePage a:hover, .woocommerce a:hover{color:#b78f52;}.sage-cart-icon{color:#000000;}a.hgr_woo_minicart_content, .blog a.hgr_woo_minicart_content, div.woo_bubble a.hgr_woo_minicart_content{color:#ffffff;}.qcv_container{background:#f9f8f6;}.qcv_container{border-top:2px solid #cecece;border-bottom:2px solid #cecece;border-left:2px solid #cecece;border-right:2px solid #cecece;}.qcv_item_title a, .qcv_item_title a:hover{font-family:Roboto;line-height:30px;font-weight:400;font-style:normal;color:#000000;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .qcv_item_title a, .qcv_item_title a:hover,{opacity: 0;}.ie.wf-loading .qcv_item_title a, .qcv_item_title a:hover,{visibility: hidden;}.qcv_item_subtotal{font-family:Roboto;line-height:14px;font-weight:700;font-style:normal;color:#000000;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .qcv_item_subtotal,{opacity: 0;}.ie.wf-loading .qcv_item_subtotal,{visibility: hidden;}div.qcv_items_subtotal, div.qcv_items_subtotal span{font-family:Roboto;line-height:30px;font-weight:700;font-style:normal;color:#000000;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading div.qcv_items_subtotal, div.qcv_items_subtotal span,{opacity: 0;}.ie.wf-loading div.qcv_items_subtotal, div.qcv_items_subtotal span,{visibility: hidden;}a.qcv_button_cart, a.qcv_button_checkout, a.qcv_button_cart:hover, a.qcv_button_checkout:hover{font-family:Roboto;line-height:30px;font-weight:700;font-style:normal;color:#ffffff;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading a.qcv_button_cart, a.qcv_button_checkout, a.qcv_button_cart:hover, a.qcv_button_checkout:hover,{opacity: 0;}.ie.wf-loading a.qcv_button_cart, a.qcv_button_checkout, a.qcv_button_cart:hover, a.qcv_button_checkout:hover,{visibility: hidden;}body.blog, body.single-post{font-family:"Open Sans";line-height:30px;font-weight:400;font-style:normal;color:#666666;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body.blog, body.single-post,{opacity: 0;}.ie.wf-loading body.blog, body.single-post,{visibility: hidden;}.blog h1, body.single-post h1{font-family:"Roboto Condensed";line-height:30px;font-weight:400;font-style:normal;color:#000000;font-size:24px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .blog h1, body.single-post h1,{opacity: 0;}.ie.wf-loading .blog h1, body.single-post h1,{visibility: hidden;}.blog h2, body.single-post h2{font-family:"Roboto Condensed";line-height:24px;font-weight:400;font-style:normal;color:#000000;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .blog h2, body.single-post h2,{opacity: 0;}.ie.wf-loading .blog h2, body.single-post h2,{visibility: hidden;}.blog h3, body.single-post h3{font-family:Georgia, serif;line-height:38px;font-weight:normal;font-style:normal;color:#646464;font-size:22px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .blog h3, body.single-post h3,{opacity: 0;}.ie.wf-loading .blog h3, body.single-post h3,{visibility: hidden;}.blog h4, body.single-post h4{font-family:"Roboto Condensed";line-height:24px;font-weight:400;font-style:normal;color:#000000;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .blog h4, body.single-post h4,{opacity: 0;}.ie.wf-loading .blog h4, body.single-post h4,{visibility: hidden;}.blog h5, body.single-post h5{font-family:"Open Sans";line-height:50px;font-weight:600;font-style:normal;color:#646464;font-size:46px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .blog h5, body.single-post h5,{opacity: 0;}.ie.wf-loading .blog h5, body.single-post h5,{visibility: hidden;}.blog h6, body.single-post h6{font-family:"Source Sans Pro";line-height:24px;font-weight:300;font-style:normal;color:#646464;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .blog h6, body.single-post h6,{opacity: 0;}.ie.wf-loading .blog h6, body.single-post h6,{visibility: hidden;}.blog a, .megamenu a{color:#000000;}.blog a:hover, .megamenu a:hover{color:#49e2d6;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="archive paged post-type-archive post-type-archive-product paged-2 post-type-paged-2 woocommerce woocommerce-page  notMobile   isDesktop  wpb-js-composer js-comp-ver-6.1 vc_responsive" >
+
+
+<!--Website Boxed START-->
+<div id="website_boxed">
+
+
+<!-- Fixed Header -->
+
+
+<div id="hgr_top_navbar_container" class="hgr_fixed_header hgr_navbar ">
+	 <div class="container">     
+    <div class="hgr_identity">
+    	<a href="http://www.highgradelab.com/tavern/main-demo/" title="Main Demo"><img src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2015/04/logo-light.png" width="88" height="60" alt="Main Demo" class="logo" /></a>
+    </div>
+    
+    <div id="hgr_top_navbar_extras" class="">
+    	
+		        
+                <a class="hgr_minicart" href="http://www.highgradelab.com/tavern/main-demo/cart/"><i class="icon sage-cart-icon"></i></a>
+         
+        <a class="cd-primary-nav-trigger" href="#0"><i class="icon fa fa-bars"></i></a>  
+    </div>
+    
+	<div id="main_navbar_container" class="main_navbar_container"><ul id="main_navbar" class="main_navbar"><li id="menu-item-4205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4205"><a title="Home" href="http://www.highgradelab.com/tavern/" class="first_level_menu_link">Home</a></li>
+<li id="menu-item-4208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4208"><a title="About Us" href="http://www.highgradelab.com/tavern/main-demo/about-us/" class="first_level_menu_link">About Us</a></li>
+<li id="menu-item-4209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4209"><a title="Team" href="http://www.highgradelab.com/tavern/main-demo/team/" class="first_level_menu_link">Team</a></li>
+<li id="menu-item-4210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4210"><a title="Menu" href="http://www.highgradelab.com/tavern/main-demo/menu/" class="first_level_menu_link">Menu</a></li>
+<li id="menu-item-4212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4212"><a title="Reservations" href="http://www.highgradelab.com/tavern/main-demo/make-reservation/" class="first_level_menu_link">Reservations</a></li>
+<li id="menu-item-4207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current-menu-item current_page_item menu-item-4207 dropdown active"><a title="Shop" href="http://www.highgradelab.com/tavern/main-demo/shop/" data-toggle="dropdown" class="dropdown-toggle first_level_menu_link" aria-haspopup="true">Shop <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu multi-level">
+	<li id="menu-item-4215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4215"><a title="My Account" href="http://www.highgradelab.com/tavern/main-demo/my-account/">My Account</a></li>
+	<li id="menu-item-4213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4213"><a title="Cart" href="http://www.highgradelab.com/tavern/main-demo/cart/">Cart</a></li>
+	<li id="menu-item-4214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4214"><a title="Checkout" href="http://www.highgradelab.com/tavern/main-demo/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li id="menu-item-4211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4211"><a title="Contact" href="http://www.highgradelab.com/tavern/main-demo/contact-page/" class="first_level_menu_link">Contact</a></li>
+</ul></div>    
+    <nav class="menu-main-menu-container"><ul id="mainNavUl" class="cd-primary-nav"> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4205"><a title="Home" href="http://www.highgradelab.com/tavern/" class="first_level_menu_link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4208"><a title="About Us" href="http://www.highgradelab.com/tavern/main-demo/about-us/" class="first_level_menu_link">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4209"><a title="Team" href="http://www.highgradelab.com/tavern/main-demo/team/" class="first_level_menu_link">Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4210"><a title="Menu" href="http://www.highgradelab.com/tavern/main-demo/menu/" class="first_level_menu_link">Menu</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4212"><a title="Reservations" href="http://www.highgradelab.com/tavern/main-demo/make-reservation/" class="first_level_menu_link">Reservations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current-menu-item current_page_item menu-item-4207 dropdown active"><a title="Shop" href="http://www.highgradelab.com/tavern/main-demo/shop/" data-toggle="dropdown" class="dropdown-toggle first_level_menu_link" aria-haspopup="true">Shop <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu multi-level">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4215"><a title="My Account" href="http://www.highgradelab.com/tavern/main-demo/my-account/">My Account</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4213"><a title="Cart" href="http://www.highgradelab.com/tavern/main-demo/cart/">Cart</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4214"><a title="Checkout" href="http://www.highgradelab.com/tavern/main-demo/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4211"><a title="Contact" href="http://www.highgradelab.com/tavern/main-demo/contact-page/" class="first_level_menu_link">Contact</a></li>
+</ul></nav>    
+     </div> <!--.container--> </div> <!-- #hgr_top_navbar_container -->    
+  
+
+<!--/ header --> 
+
+<div class="header_spacer"></div>
+
+
+
+<!-- Sections Start -->
+<div id="hgr_sections"> 
+
+ 
+
+ <div id="shop_page_440" class="row standAlonePage " style="   ">
+  <div class="vc_col-md-12" style="margin-top:-30px;" >
+ 
+ 
+   
+  <div class="container" style="  ">
+    
+    
+    <!-- products -->
+        <div class="slideContent vc_col-sm-12">
+        
+    	
+			
+	<div class="woocommerce-message"><i class="fa fa-icon fa-check" style="font-size:17px;margin-right:10px"></i><a href="http://www.highgradelab.com/tavern/main-demo/cart/" class="hgr_view_cart_link">View Cart <i class="fa fa-icon fa-angle-right" style="font-size:17px;margin-left:10px"></i></a> Product successfully added to your cart.</div>
+<p class="woocommerce-result-count">
+	Showing 13&ndash;24 of 24 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by newness</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="add-to-cart" value="474" /></form>
+
+			<ul class="products">
+
+				
+				
+					<li class="post-83 product type-product status-publish has-post-thumbnail product_cat-albums product_cat-music first instock downloadable shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-album-1/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-6-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-6" title="product-6" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-6-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-6-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-6-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-6-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-6-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-6.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Album #1</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount">9,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=83" data-quantity="1" data-product_id="83" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-87 product type-product status-publish has-post-thumbnail product_cat-albums product_cat-music  instock downloadable shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-album-2/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-5-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-5" title="product-5" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-5-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-5-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-5-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-5-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-5-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-5.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Album #2</h2><div class="star-rating" title="Rated 4.00 out of 5"><span style="width:80%"><strong class="rating">4.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount">9,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=87" data-quantity="1" data-product_id="87" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-473 product type-product status-publish has-post-thumbnail product_cat-albums product_cat-music last instock downloadable shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-album-3/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-2" title="product-2" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-2-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-2-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-2-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-2-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-2-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-2.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Album #3</h2><div class="star-rating" title="Rated 3.00 out of 5"><span style="width:60%"><strong class="rating">3.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount">9,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=473" data-quantity="1" data-product_id="473" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-475 product type-product status-publish has-post-thumbnail product_cat-albums product_cat-music first instock downloadable shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-album-4/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-4-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-4" title="product-4" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-4-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-4-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-4-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-4-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-4-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-4.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Album #4</h2><div class="star-rating" title="Rated 5.00 out of 5"><span style="width:100%"><strong class="rating">5.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount">9,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=475" data-quantity="1" data-product_id="475" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-15 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-t-shirts  instock sale shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-logo/" class="woocommerce-LoopProduct-link">
+	<span class="onsale">Sale!</span>
+<img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-21-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-21" title="product-21" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-21-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-21-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-21-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-21-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-21-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-21.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Logo</h2><div class="star-rating" title="Rated 4.00 out of 5"><span style="width:80%"><strong class="rating">4.00</strong> out of 5</span></div>
+	<span class="price"><del><span class="woocommerce-Price-amount amount">20,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></del> <ins><span class="woocommerce-Price-amount amount">18,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></ins></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=15" data-quantity="1" data-product_id="15" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-60 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-hoodies last instock shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-logo-2/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-12-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-12" title="product-12" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-12-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-12-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-12-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-12-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-12-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-12.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Logo</h2><div class="star-rating" title="Rated 3.00 out of 5"><span style="width:60%"><strong class="rating">3.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount">35,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=60" data-quantity="1" data-product_id="60" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-79 product type-product status-publish has-post-thumbnail product_cat-posters first instock shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-logo-3/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-8-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-8" title="product-8" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-8-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-8-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-8-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-8-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-8-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-8.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Logo</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount">15,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=79" data-quantity="1" data-product_id="79" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-47 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-hoodies  instock shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-ninja-2/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-16-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-16" title="product-16" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-16-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-16-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-16-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-16-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-16-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-16.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Ninja</h2><div class="star-rating" title="Rated 5.00 out of 5"><span style="width:100%"><strong class="rating">5.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount">35,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=47" data-quantity="1" data-product_id="47" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-76 product type-product status-publish has-post-thumbnail product_cat-posters last instock shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-ninja-3/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-7-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-7" title="product-7" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-7-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-7-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-7-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-7-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-7-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-7.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Ninja</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount">15,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=76" data-quantity="1" data-product_id="76" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-469 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-t-shirts first instock shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-ninja/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-20-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-20" title="product-20" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-20-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-20-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-20-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-20-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-20-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-20.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Ninja</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount">20,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=469" data-quantity="1" data-product_id="469" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-474 product type-product status-publish has-post-thumbnail product_cat-music product_cat-singles  instock downloadable shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-single-1/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-3-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-3" title="product-3" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-3-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-3-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-3-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-3-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-3-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-3.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Single #1</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount">3,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=474" data-quantity="1" data-product_id="474" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+					<li class="post-476 product type-product status-publish has-post-thumbnail product_cat-music product_cat-singles last instock sale shipping-taxable purchasable product-type-simple">
+	<a href="http://www.highgradelab.com/tavern/main-demo/product/woo-single-2/" class="woocommerce-LoopProduct-link">
+	<span class="onsale">Sale!</span>
+<img width="300" height="300" src="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="product-1" title="product-1" srcset="http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-1-300x300.jpg 300w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-1-150x150.jpg 150w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-1-768x768.jpg 768w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-1-180x180.jpg 180w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-1-600x600.jpg 600w, http://www.highgradelab.com/tavern/main-demo/wp-content/uploads/sites/2/2013/06/product-1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Woo Single #2</h2><div class="star-rating" title="Rated 4.00 out of 5"><span style="width:80%"><strong class="rating">4.00</strong> out of 5</span></div>
+	<span class="price"><del><span class="woocommerce-Price-amount amount">3,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></del> <ins><span class="woocommerce-Price-amount amount">2,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></ins></span>
+</a><a rel="nofollow" href="/tavern/main-demo/shop/page/2/?add-to-cart=476" data-quantity="1" data-product_id="476" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+
+				
+			</ul>
+
+			<nav class="woocommerce-pagination">
+	<ul class='page-numbers'>
+	<li><a class="prev page-numbers" href="http://www.highgradelab.com/tavern/main-demo/shop/page/1/?add-to-cart=474">&larr;</a></li>
+	<li><a class='page-numbers' href='http://www.highgradelab.com/tavern/main-demo/shop/page/1/?add-to-cart=474'>1</a></li>
+	<li><span class='page-numbers current'>2</span></li>
+</ul>
+</nav>
+
+		        
+    </div>
+    <!-- / products -->
+    
+     </div>
+ </div>
+ </div>
+ 
+	
+
+<div class="clearfix"></div>
+</div> <!--Sections END-->
+
+    <div class="clearfix"></div>
+       <div class="row bka_footer minimal_footer dark_scheme " style="  background-color:#222222;">
+        <div class="container">
+            <div class="vc_col-md-12">
+                Copyright <a href="http://www.highgradelab.com">HighGrade</a>. All rights reserved.            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    
+<div id="hgr_left"></div>
+<div id="hgr_right"></div>
+<div id="hgr_top"></div>
+<div id="hgr_bottom"></div>
+
+
+
+
+</div> <!--Website Boxed END-->
+
+	<a href="https://themeforest.net/item/tavern-professional-restaurant-theme/10984149?ref=HighGrade&utm_campaign=highgradelab_com&utm_source=http://www.highgradelab.com/tavern/main-demo/shop/page/2?paged=2&post_type=product&utm_medium=buynow_btn" target="_blank" rel="nofollow" class="hgr_cta_btn">Buy Theme on ThemeForest</a>		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+
+				
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content	= '';
+					var data	= {
+						action:			'revslider_ajax_call_front',
+						client_action:	'get_slider_html',
+						token:			'8dce55f74b',
+						type:			obj.type,
+						id:				obj.id,
+						aspectratio:	obj.aspectratio
+					};
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:		'post',
+						url:		'http://www.highgradelab.com/tavern/main-demo/wp-admin/admin-ajax.php',
+						dataType:	'json',
+						data:		data,
+						async:		false,
+						success:	function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error:		function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector + ' .rev_slider').revkill();
+				};
+
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION				
+				if (jQuery.fn.tpessential !== undefined) 					
+					if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') 
+						jQuery.fn.tpessential.defaults.ajaxTypes.push({type: 'revslider', func: ajaxRevslider, killfunc: ajaxRemoveRevslider, openAnimationSpeed: 0.3});   
+						// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+						// func: the Function Name which is Called once the Item with the Post Type has been clicked
+						// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+						// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+					
+				
+				
+			});
+		</script>
+		<div id="fssearch_container" class="hidden"><a class="close-btn" href="#0">Close</a><span class="fssearch_tip">Type and hit enter</span><form role="search" method="get" id="searchform" class="searchform" action="http://www.highgradelab.com/tavern/main-demo/">
+					<div>
+						<input type="text" value="" name="s" id="s" class="fssearch_input" autocomplete="off" spellcheck="false" />
+						<input type="hidden" value="product" name="post_type"></input>
+						<input type="submit" id="searchsubmit" value="Search" class="fssearch_submit" />
+					</div>
+				</form></div><!-- fssearch_container END --><script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/hgr_megamenu/js/frontend.js?ver=1'></script>
+<script type='text/javascript' src='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/tavern\/main-demo\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/tavern\/main-demo\/shop\/page\/2\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/tavern\/main-demo\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/tavern\/main-demo\/shop\/page\/2\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.0.1'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.1'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/js/lity.min.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/js/jquery.animate-colors-min.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/js/velocity.min.js?ver=4.7.16'></script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/plugins/woocommerce-jquery-cookie-fix/jquery_cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_variables = {"home_url":"http:\/\/www.highgradelab.com\/tavern\/main-demo\/","template_directory_uri":"http:\/\/www.highgradelab.com\/tavern\/main-demo\/wp-content\/themes\/tavern","retina_logo_url":"http:\/\/www.highgradelab.com\/tavern\/main-demo\/wp-content\/uploads\/sites\/2\/2015\/04\/logo-light@2x.png","menu_style":"1","is_front_page":"false","custom_js":"''","static_mega_footer":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-content/themes/tavern/highgrade/js/app.js?ver=4.7.16'></script>
+<script type='text/javascript'>
+ jQuery(document).ready(function($) {
+						"use strict";
+						var hasBeenTrigged = false;
+						var header_height = $("#hgr_top_navbar_container").outerHeight(true);
+						
+						$("#hgr_top_navbar_extras .hgr_woo_minicart, #hgr_top_navbar_extras, #hgr_top_navbar_extras a").height( $("#hgr_top_navbar_container").outerHeight() );
+						$(".fixed_menu_bottom_bar .hgr_woo_minicart").height($( ".fixed_menu_bottom_bar").outerHeight(true) );				
+						$("#hgr_top_navbar_extras a").css( "line-height", $("#hgr_top_navbar_container").outerHeight() + "px" );
+						$("#hgr_top_navbar_container .dropdown-menu").animate({backgroundColor: "rgba(0,0,0 , 1.0)"}, 500);
+										if ($(window).scrollTop() > 200 ) {
+										$("#hgr_top_navbar_container").animate({backgroundColor: "rgba(0,0,0 , 1.0)"}, 500);
+										
+										}$(".header_spacer").height( $("#hgr_top_navbar_container").outerHeight() );$(window).bind("scroll", function() {
+									
+									if ($(window).scrollTop() > 200 && !hasBeenTrigged ) {
+										$("#hgr_top_navbar_container").animate({backgroundColor: "rgba(0,0,0 , 1.0)"}, 500);
+										hasBeenTrigged = true;
+										
+									}
+									if ($(window).scrollTop() < 200 && hasBeenTrigged ) {
+										$("#hgr_top_navbar_container").animate({backgroundColor: "rgba(0,0,0 , 1)"}, 500);
+										hasBeenTrigged = false;
+										
+									}
+								}); });
+</script>
+<script type='text/javascript' src='http://www.highgradelab.com/tavern/main-demo/wp-includes/js/wp-embed.min.js?ver=4.7.16'></script>
+    
+ </body>
+</html>

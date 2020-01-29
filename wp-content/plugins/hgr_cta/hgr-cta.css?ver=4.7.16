@@ -1,0 +1,29 @@
+.hgr_cta_btn {
+	position: fixed;
+	right: 35px;
+	bottom: 35px;
+	box-shadow: 0 9px 17px 0px rgba(0,0,0,.13);
+	background-image: url(buy-button@2x.png);
+	background-size:contain;
+	background-position: center;
+	border-radius: 24px;
+	text-indent: -9999px;
+	display: block;
+	width: 239px;
+	height: 48px;
+	z-index: 1000000000;
+	-moz-transition: bottom .3s ease, box-shadow .3s ease;
+	-o-transition: bottom .3s ease, box-shadow .3s ease;
+	-webkit-transition: bottom .3s ease, box-shadow .3s ease;
+	transition: bottom .3s ease, box-shadow .3s ease
+}
+.hgr_cta_btn:hover {
+	bottom: 40px;
+	box-shadow: 0 14px 17px 0px rgba(0,0,0,.13);
+}
+@media screen and (max-width: 780px) {
+	.hgr_cta_btn {
+		display:none;
+	}
+}
+
