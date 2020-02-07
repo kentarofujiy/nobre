@@ -1,5 +1,5 @@
 <section class="form-bg">
-
+  <script src="./assets/scripts/formulario.js"></script>
     <div class="row justify-content-center">
         <div class="col-lg-8 text-center titulo-form">
             <h1 class="form-title-text fredoka">fale com a gente</h1>
@@ -14,37 +14,31 @@
                 <input name="nome" ng-model="formData.nobreform.nome" type="text" class="form-control" id="nome" placeholder="nome" required>
                 <span ng-show="orcamentoForm.nome.$touched && orcamentoForm.nome.$invalid"><i class="fa fa-check" style="color:#DB171A"></i></span> <span ng-show="orcamentoForm.nome.$touched && orcamentoForm.nome.$valid"><i class="fa fa-check" style="color:#149838"></i></span>
             </div>
-            
+
             <div class="form-group">
-                    <input name="empresa" ng-model="formData.nobreform.cidade" type="text" class="form-control" id="cidade" placeholder="cidade">
-                    <span ng-show="orcamentoForm.cidade.$touched && orcamentoForm.cidade.$invalid"><i class="fa fa-check" style="color:#DB171A"></i></span> <span ng-show="orcamentoForm.cidade.$touched && orcamentoForm.cidade.$valid"><i class="fa fa-check" style="color:#149838"></i></span>
-                </div>
-            
-            
+                <input name="empresa" ng-model="formData.nobreform.cidade" type="text" class="form-control" id="cidade" placeholder="cidade">
+                <span ng-show="orcamentoForm.cidade.$touched && orcamentoForm.cidade.$invalid"><i class="fa fa-check" style="color:#DB171A"></i></span> <span ng-show="orcamentoForm.cidade.$touched && orcamentoForm.cidade.$valid"><i class="fa fa-check" style="color:#149838"></i></span>
+            </div>
+
+
 
             <div class="form-group">
 
-                    <input name="telefone" data-mask="(00)00000-0000" ng-model="formData.nobreform.telefone" type="text" class="form-control" id="telefone" placeholder="telefone">
-                    <span ng-show="orcamentoForm.telefone.$touched && orcamentoForm.telefone.$invalid"><i class="fa fa-check" style="color:#DB171A"></i></span> <span ng-show="orcamentoForm.telefone.$touched && orcamentoForm.telefone.$valid"><i class="fa fa-check" style="color:#149838"></i></span>
-                </div>
-            
+                <input name="telefone" data-mask="(00)00000-0000" ng-model="formData.nobreform.telefone" type="text" class="form-control" id="telefone" placeholder="telefone">
+                <span ng-show="orcamentoForm.telefone.$touched && orcamentoForm.telefone.$invalid"><i class="fa fa-check" style="color:#DB171A"></i></span> <span ng-show="orcamentoForm.telefone.$touched && orcamentoForm.telefone.$valid"><i class="fa fa-check" style="color:#149838"></i></span>
+            </div>
+
             <div class="form-group">
 
                 <input name="email" ng-model="formData.nobreform.email" type="email" class="form-control" id="email" placeholder="email">
                 <span ng-show="orcamentoForm.email.$touched && orcamentoForm.email.$invalid"><i class="fa fa-check" style="color:#DB171A"></i></span> <span ng-show="orcamentoForm.email.$touched && orcamentoForm.email.$valid"><i class="fa fa-check" style="color:#149838"></i></span>
             </div>
 
-            
-
             <div class="form-group">
-                    <textarea name="comentario" ng-model="formData.nobreform.comentario" type="text" class="form-control" id="comentario" placeholder="comentário" rows=5>
+                <textarea name="comentario" ng-model="formData.nobreform.comentario" type="text" class="form-control" id="comentario" placeholder="comentário" rows=5>
                     <span ng-show="orcamentoForm.comentario.$touched && orcamentoForm.comentario.$invalid"><i class="fa fa-check" style="color:#DB171A"></i></span> <span ng-show="orcamentoForm.comentario.$touched && orcamentoForm.comentario.$valid"><i class="fa fa-check" style="color:#149838"></i></span></textarea>
-                </div>
+            </div>
 
-            <!-- <div class="form-group row">
-        <div class="col-sm-10">
-        </div>
-  </div> -->
 
             <div class="spacer-md">&nbsp;</div>
             <div class="form-group row">
@@ -56,7 +50,7 @@
 
         </form>
     </div>
- 
+
 
     <div class="spacer-sm">&nbsp;</div>
     </div>
@@ -64,17 +58,3 @@
     </div>
     </div>
 </section>
-
-   <script>
-        var options = {
-            onKeyPress: function(phone_with_ddd, e, field, options) {
-                var masks = ['(00) 00000-0000', '(00) 0000-0000'];
-                var mask = (phone_with_ddd.length < 11) ? masks[1] : masks[0];
-                $('#telefone').mask(mask, options);
-                $('#telefone2').mask(mask, options);
-            }
-        };
-
-        $('#telefone').mask('(00) 00000-0000', options);
-        $('#telefone2').mask('(00) 00000-0000', options);
-    </script>

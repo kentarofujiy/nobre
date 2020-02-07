@@ -1,0 +1,40 @@
+.btn-group-nobre {
+  display: unset !important;
+}
+
+.prontoimg {
+  max-width: 100%;
+}
+
+
+.nobre-icon {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+
+@media(max-width: 1000px) {
+  .nobre-icon {
+    display: flex;
+    justify-content: center;
+  }
+  .composicao-icones {
+    padding-left: 0em;
+  }
+}
+
+
+.composicao-icones {
+  flex-grow: .2;
+  padding-top: 8em;
+  padding-left: 3em;
+}
+
+.icone-verde {
+  align: center;
+}
+
+.home-pronto-wrapper {
+  background-color: #000;
+}
+

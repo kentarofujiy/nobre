@@ -1,0 +1,29 @@
+.home-hero {
+    background-image: url(../../images/bg_hero_nobre_food.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 30em;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.home-hero-logo {
+    display: flex;
+    height: 100%;
+    margin-top: 7em;
+    width: 100%
+}
+
+@media(max-width: 1000px) {
+    .home-hero-logo {
+        display: flex;
+        height: unset;
+        margin-top: 7em;
+        width: 100%;
+        padding-right: 1em;
+    }
+
+
+}

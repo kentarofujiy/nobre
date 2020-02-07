@@ -1,0 +1,86 @@
+.home-contato-wrapper {
+    background-image: url(../../images/bg_hero_nobre_food.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+
+.btn {
+    padding: .5em 3.3em .5em 3.3em;
+}
+
+.titulo-form {
+    margin-top: 7em;
+    margin-bottom: 4em;
+}
+
+.form-bg {
+    background-color: #fff;
+}
+
+.form-title-text {
+    color: #70a647;
+}
+
+
+div.ng-scope:nth-child(8)>section:nth-child(2) {
+    padding-bottom: 10em;
+}
+
+
+.card {
+    background-color: #000;
+    border: 0 solid rgba(0, 0, 0, .125);
+}
+
+
+.btn-success {
+    background-color: #6fa545;
+    border-color: #6fa545;
+}
+
+.btn-success:hover {
+    background-color: #6fa545;
+    border-color: #6fa545;
+}
+
+.fredoka-telefone {
+    font-family: 'kg_inimitable_originalregular', 'Fredoka One', cursive;
+    line-height: 1;
+    font-size: 2.5rem;
+    color: #6fa545;
+}
+
+.icone-redes-sociais {
+    color: #6fa545;
+}
+
+
+.icone-redes-sociais:hover {
+    color: #6fa545;
+}
+
+.limite-form {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.btn-enviar {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+.btn-success:hover {
+
+    background-color: #000;
+    border-color: #000;
+}
+
+
+.btn-success:hover {
+    color: #6fa545;
+}

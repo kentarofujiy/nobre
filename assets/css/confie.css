@@ -1,0 +1,17 @@
+.home-confie {
+    background-image: url(../../images/bg-confie.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 30em;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.home-confie-texto {
+    display: flex;
+    height: 100%;
+    margin-top: 14em;
+    max-width: 100%;
+}

@@ -1,0 +1,148 @@
+.home-menu-wrapper {
+  background-color: #000;
+}
+
+.btn-outline-primary:hover {
+  background-color: #000;
+  border-color: #000;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.show>.btn-outline-primary.dropdown-toggle {
+  /* background-color: #007bff; */
+  /* border-color: #007bff; */
+  background-color: #000;
+  border-color: #000;
+}
+
+
+
+.btn-outline-primary {
+  border-color: #000;
+}
+
+.bg-light {
+  background-color: #000!important;
+}
+
+.navbar {
+  padding-bottom: .5em;
+  padding-top: .5em;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.navbar-brand {
+  padding-top: .313rem;
+  padding-bottom: .313rem;
+  margin-right: 1rem;
+  font-size: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #f0f0f0;
+}
+
+
+.btn {
+  border-radius: 0.25rem;
+}
+
+
+
+.home-menu-links-center {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar-light .navbar-toggler {
+  background-color: #6fa545;
+}
+
+img {
+  margin: 10px;
+}
+
+.home-menu-links-center {
+  justify-content: center;
+}
+
+@media (min-width:992px) {
+  .navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #6fa545;
+}
+
+.navbar-light .navbar-toggler {
+  background-color: #6fa545;
+}
+
+img {
+  margin: 10px;
+}
+
+.home-menu-links-center {
+  justify-content: center;
+}
+
+@media (min-width:992px) {
+  .navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #6fa545;
+}
+
+.logo-menu {
+  margin: 1em;
+}
+
+@media(min-width: 1000px) {
+  .nobre-nav-link:first-child {
+    border-left: none;
+  }
+  .nobre-nav-link:last-child {
+    border-right: none;
+  }
+ 
+}
+
+
+.nobre-nav-link {
+  border-right: 1px solid rgb(108, 117, 125);
+  border-bottom-color: transparent;
+  border-left-color: rgb(108, 117, 125);
+  font-size: calc(10px + 0.55vw);
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: .03em;
+  padding-bottom: .03em;
+}
+
+
+@media(max-width: 1000px) {
+  .nobre-nav-link {
+    border-right: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    font-size: calc(10px + 2vw);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 0.5px solid #6fa545;
+  }
+  .nobre-nav-link:last-child {
+    border-bottom: none;
+  }
+  
+}
