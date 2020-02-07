@@ -19,7 +19,7 @@
     justify-content: center;
   }
   .composicao-icones {
-    padding-left: 0em;
+    padding-left: 0em !important;
   }
 }
 

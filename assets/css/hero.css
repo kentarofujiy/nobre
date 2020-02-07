@@ -24,6 +24,18 @@
         width: 100%;
         padding-right: 1em;
     }
+.bghero {
+    background-image: url(../../images/bg_hero_nobre_food.jpg);
+}
 
+.home-hero {
+    min-height: unset;
+}
+.home-hero-logo {
+    display: flex;
+    max-height: 20em;
+    margin-top: unset;
+    width: auto;
+}
 
 }

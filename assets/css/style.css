@@ -1,4 +1,4 @@
-@import "utilities.css";
+@import "parallax.css";
 
 @import "hero.css";
 
@@ -14,5 +14,5 @@
 
 @import "pronto.css";
 
-
+@import "utilities.css";
 

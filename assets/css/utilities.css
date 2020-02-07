@@ -13,6 +13,16 @@ body {
 }
 
 
+  .hidden-md-down {
+    visibility: hidden;
+    position: unset;
+  }
+  
+  .hidden-md-up {
+    visibility: hidden;
+    position: unset;
+  }
+
 
 .text-white {
   color: #909090!important;
@@ -99,6 +109,10 @@ button::-moz-focus-inner {
     visibility: hidden;
     position: absolute;
   }
+   .hidden-md-up {
+    visibility: visible;
+    position: unset;
+  }
 }
 
 
@@ -127,9 +141,16 @@ button::-moz-focus-inner {
     visibility: hidden;
     position: absolute;
   }
+  .hidden-md-down {
+    visibility: visible;
+    position: unset;
+  }
   .robotocond {
     padding-left: 2em;
     padding-right: 2em;
 
   }
+  .fredoka {
+    font-size: calc(14px + 9vw);
+}
 }

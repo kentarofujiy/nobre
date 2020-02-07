@@ -16,6 +16,14 @@
     max-width: 100%;
 }
 
+@media(min-width: 1000px) {
+   .home-icones-wrapper {
+       padding-bottom: 5em;
+   } 
+    
+}
+
+
 
 @media(max-width: 1000px) {
 .home-confie {
@@ -29,5 +37,29 @@
     background-repeat: no-repeat;
     background-position-x: center;
 }
+
+.bg1 {
+	background-image: url(../../images/bg-confie-sm.jpg);
+}
+
+section .content {
+	background: transparent;
+	color: #fff;
+	border-radius: 3px;
+	padding: 0px;
+	margin: 0 auto;
+	text-align: center;
+	z-index: 2;
+}
+
+.home-confie-texto {
+    display: flex;
+    height: 100%;
+    margin-top: 13em;
+    max-width: 90%;
+}
+   .home-icones-wrapper {
+       padding-bottom: 7em;
+   } 
     
 }

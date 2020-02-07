@@ -11,6 +11,8 @@ var salgados = document.getElementsByClassName("salgados");
 $( "#especiais, #especiais1" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
 $( list ).not(especiais).addClass( "card-hidden" );
+});
+
 $( "#abertas, #abertas1" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
 $( list ).not(abertas).addClass( "card-hidden" );
@@ -25,7 +27,6 @@ $( list ).not(salgados).addClass( "card-hidden" );
 });
 $( "#todas, #todas1" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
-});
 });
 
 $( window ).scroll(function() {
