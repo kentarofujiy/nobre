@@ -15,3 +15,19 @@
     margin-top: 14em;
     max-width: 100%;
 }
+
+
+@media(max-width: 1000px) {
+.home-confie {
+    background-image: url(../../images/bg-confie-sm.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    min-width: 100%;
+    height: unset;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+    
+}

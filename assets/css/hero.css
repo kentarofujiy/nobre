@@ -12,7 +12,7 @@
 .home-hero-logo {
     display: flex;
     height: 100%;
-    margin-top: 7em;
+    margin-top: unset;
     width: 100%
 }
 
