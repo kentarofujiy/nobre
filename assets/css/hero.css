@@ -16,6 +16,14 @@
     width: 100%
 }
 
+
+@media(min-width: 1000px) {
+    .home-hero {
+        padding-top: 7em;
+    }
+}
+
+
 @media(max-width: 1000px) {
     .home-hero-logo {
         display: flex;
@@ -24,18 +32,18 @@
         width: 100%;
         padding-right: 1em;
     }
-.bghero {
-    background-image: url(../../images/bg_hero_nobre_food.jpg);
-}
+    .bghero {
+        background-image: url(../../images/bg_hero_nobre_food.jpg);
+    }
 
-.home-hero {
-    min-height: unset;
-}
-.home-hero-logo {
-    display: flex;
-    max-height: 20em;
-    margin-top: unset;
-    width: auto;
-}
+    .home-hero {
+        min-height: unset;
+    }
+    .home-hero-logo {
+        display: flex;
+        max-height: 20em;
+        margin-top: unset;
+        width: auto;
+    }
 
 }
