@@ -1,8 +1,7 @@
-<section  id="cards" class=""> 
-<div class="container mx-auto">
+<section  id="cards"> 
+<div class="container">
 <div class="dropdown dropdown-nobre" id="dropnobre">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Escolha
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
      <button type="button" class="dropdown-item" id="especiais">Massas Especiais</button>
@@ -12,18 +11,17 @@
     <button type="button" class="dropdown-item" id="todas">Tudo</button>
   </div>
 </div>
-  <div class="filtro-desk">
-  <span class="btn-nobre" id="especiais1"> Massas Especiais</span>
-  <span class="btn-nobre" id="abertas1">Massas Abertas</span>
-  <span class="btn-nobre" id="fechadas1">Massas Fechadas</span>
-<span class="btn-nobre" id="salgados1">Salgados</span>
-  <span class="btn-nobre" id="todas1">Tudo</span>
-
+  <div class="mx-auto filtro-desk"  style="width: 100%">
+  
+  <div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-nobre" id="especiais">Massas Especiais</button>
+  <button type="button" class="btn btn-nobre" id="abertas">Massas Abertas</button>
+    <button type="button" class="btn btn-nobre" id="fechadas">Massas Fechadas</button>
+  <button type="button" class="btn btn-nobre" id="salgados">Salgados</button>
+    <button type="button" class="btn btn-nobre" id="todas">Tudo</button>
 </div>
 </div>
-
-<div class="container" style="padding-bottom: 4em;">
- <div class="row card-columns nobre-cols" name="cardtop">
+ <div class="row card-columns nobre-cols">
   <div class="card col-sm-12 col-md-8 nobre-card especiais" id="nobre-card1" >
     <div class="card-body"> 
       <h3 class="nobre-card-title">rondelle de abóbora</h3>
@@ -169,7 +167,7 @@
       <h5 class="nobre-card-title">bolinha de abóbora</h5>
     </div>
   </div>
-
+  
 </div>
 </div>
 </section>
@@ -185,22 +183,23 @@ var fechadas = document.getElementsByClassName("fechadas");
 var salgados = document.getElementsByClassName("salgados");
 
 
-$( "#especiais, #especiais1" ).click(function() {
+$( "#especiais" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
 $( list ).not(especiais).addClass( "card-hidden" );
-$( "#abertas, #abertas1" ).click(function() {
+});
+$( "#abertas" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
 $( list ).not(abertas).addClass( "card-hidden" );
 });
-$( "#fechadas, #fechadas1" ).click(function() {
+$( "#fechadas" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
 $( list ).not(fechadas).addClass( "card-hidden" );
 });
-$( "#salgados, #salgados1" ).click(function() {
+$( "#salgados" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
 $( list ).not(salgados).addClass( "card-hidden" );
 });
-$( "#todas, #todas1" ).click(function() {
+$( "#todas" ).click(function() {
 $( hiddencards ).removeClass( "card-hidden" );
 });
 });
@@ -211,13 +210,6 @@ if ( $('#cards').visible('partial') == true ) {
 } else {
      $('#dropnobre').removeClass("dropon");
 }
-  });
-
-  $( "#especiais, #abertas, #fechadas, #salgados, #todas" ).click(function() {
-    $('html, body').animate({
-                    scrollTop: $("#target").offset().top
-                }, 2000);
-});
   });
 
  })(jQuery);
