@@ -87,6 +87,7 @@ div.col-5:nth-child(2)>div:nth-child(2) {
   font-size: calc(11px + .55vw);
   padding-left: 1em;
   padding-right: 1em;
+  cursor: pointer;
 }
 
 .dropdown-nobre {

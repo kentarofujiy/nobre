@@ -30,7 +30,7 @@
         height: unset;
         margin-top: 7em;
         width: 100%;
-        padding-right: 1em;
+        padding-right: 0px;
     }
     .bghero {
         background-image: url(../../images/bg_hero_nobre_food.jpg);
@@ -45,5 +45,9 @@
         margin-top: unset;
         width: auto;
     }
+    .container--hero {
+    height: unset;
+    padding-top: 5em;
+}
 
 }

@@ -84,3 +84,23 @@ div.ng-scope:nth-child(8)>section:nth-child(2) {
 .btn-success:hover {
     color: #6fa545;
 }
+
+
+
+
+.fone-vendas {
+  margin-top: 2em;
+}
+
+.fone-sac {
+  margin-top: 2em;
+}
+
+@media(max-width: 1000px) {
+
+.fredoka-telefone {
+  font-size: 2rem;
+}
+}
+
+

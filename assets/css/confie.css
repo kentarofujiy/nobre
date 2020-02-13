@@ -55,7 +55,7 @@ section .content {
 .home-confie-texto {
     display: flex;
     height: 100%;
-    margin-top: 13em;
+    margin-top: 8em;
     max-width: 90%;
 }
    .home-icones-wrapper {
